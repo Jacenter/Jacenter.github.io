@@ -1,0 +1,77 @@
+/* this is the CSS Style Sheet */
+h1.header-h1
+{
+	color: white;
+	font-family: "Audiowide";
+	letter-spacing: 0.5px;
+	text-align: center;
+}
+
+li
+{
+	font-family: "Audiowide";
+}
+
+h4
+{
+	color: black;
+	font-family: "Audiowide";
+}
+
+h6
+{
+	color: black;
+	font-family: "Audiowide";
+	font-size: 10px;
+}
+
+nav img
+{
+	height: 100px;
+	width: 100px;
+}
+
+nav ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+nav ul a
+{
+	color: white;
+	display: inline;
+}
+
+
+#myTable
+{
+	text-align: center;
+	color:black;
+	font-family: "Audiowide";
+	padding: 10px;
+
+}
+
+#footer
+{
+	text-align: center;
+	background-color: black;
+	color: white;
+	margin: auto;
+	font-family: "Audiowide";
+}
+
+#mc1imgcolumn
+{
+	justify-content: center;
+	padding: 10px;
+}
+
+#mc1textcolumn
+{
+	color: black;
+	text-align: center;
+	font-family: "Audiowide";
+
+}
