@@ -1,10 +1,16 @@
 /* this is the CSS Style Sheet */
-h1.header-h1
+
+h1.header-title
 {
 	color: white;
 	font-family: "Audiowide";
 	letter-spacing: 0.5px;
 	text-align: center;
+}
+
+h1{
+	color: white;
+	font-family: 'Audiowide';
 }
 
 li
@@ -47,7 +53,7 @@ nav ul a
 #myTable
 {
 	text-align: center;
-	color:black;
+	color:white;
 	font-family: "Audiowide";
 	padding: 10px;
 
@@ -62,16 +68,10 @@ nav ul a
 	font-family: "Audiowide";
 }
 
-#mc1imgcolumn
-{
-	justify-content: center;
-	padding: 10px;
-}
 
-#mc1textcolumn
+div#container1.container
 {
-	color: black;
+	font-family: 'Audiowide';
+	color: white;
 	text-align: center;
-	font-family: "Audiowide";
-
 }
